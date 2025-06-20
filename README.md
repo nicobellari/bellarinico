@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nicobelarri
 - 👀 I’m interested in coding
+- 💻 I code in Go
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on crypto projects
 - 😄 Pronouns: Come on...
